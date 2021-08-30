@@ -1,4 +1,7 @@
 body {
+    background-image: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: center;
     font-family: 'Poppins', sans-serif;
     color: white;
@@ -19,7 +22,7 @@ div {
 }
 
 form {
-    background-color: rgba(23, 23, 92, 0.9);
+    background-color: rgba(33, 26, 59, 0.9);
     text-align: left;
     padding: 40px;
     margin: 0 auto;
